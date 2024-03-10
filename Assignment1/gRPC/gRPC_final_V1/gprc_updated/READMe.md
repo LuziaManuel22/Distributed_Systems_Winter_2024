@@ -22,8 +22,11 @@ gRPC plays a crucial role in communication between the different components of t
 To execute the project, follow the steps below:
 
 Make sure you have - **Python** installed on your system.
+
 Install project dependencies by running - **pip install grpcio grpcio-tools**.
+
 Run the market server using the command - **python3 market.py**.
+
 Run the clients for sellers and buyers as needed, using the commands - **python3 seller1.py, python3 seller2.py, python3 client1.py, and python3 client2.py**.
 
 ## IV. Contribution
